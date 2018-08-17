@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Rock Paper Scissors Part 4</title>
+</head>
+
+<body>
+
+  <div>
+    <p id="userchoice-text"></p>
+    <p id="computerchoice-text"></p>
+  </div>
+
+  <script type="text/javascript">
+    // Creates an array that lists out all of the options (Rock, Paper, or Scissors).
+    var computerChoices = ["r", "p", "s"];
+
+    // Create variables that hold references to the places in the HTML where we want to display things.
+    var userChoiceText = document.getElementById("userchoice-text");
+    var computerChoiceText = document.getElementById("computerchoice-text");
+
+    // This function is run whenever the user presses a key.
+    document.onkeyup = function(event) {
+
+      // Determines which key was pressed.
+      var userGuess = event.key;
+
+      // Randomly chooses a choice from the options array. This is the Computer's guess.
+      var computerGuess = computerChoices[Math.floor(Math.random() * computerChoices.length)];
+
+      // Only run the following code block if the user presses "r" or "p" or "s".
+      if ((userGuess === "r") || (userGuess === "p") || (userGuess === "s")) {
+        // Display the user and computer guesses.
+        userChoiceText.textContent = "You chose: " + userGuess;
+        computerChoiceText.textContent = "The computer chose: " + computerGuess;
+      }
+
+    };
+  </script>
+
+</body>
+
+</html>
