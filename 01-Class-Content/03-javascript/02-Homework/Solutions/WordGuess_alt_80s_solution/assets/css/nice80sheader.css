@@ -1,0 +1,67 @@
+@import url("http://fonts.googleapis.com/css?family=Mr+Dafoe");
+@import url("http://fonts.googleapis.com/css?family=Titillium+Web:900");
+@import url("http://fonts.googleapis.com/css?family=Righteous");
+@import url("http://fonts.googleapis.com/css?family=Candal");
+@import url("http://fonts.googleapis.com/css?family=Permanent+Marker");
+@import url("http://fonts.googleapis.com/css?family=Monoton");
+
+body {
+  position: relative;
+  color: #fff;
+  background: #000;
+}
+
+* {
+  font-family: "Permanent Marker", cursive;
+  font-size: 20px;
+  letter-spacing: 3px;
+}
+
+.chrome {
+  position: relative;
+  margin: 0;
+  font-family: "Titillium Web", sans-serif;
+  font-size: 200px;
+  font-style: italic;
+  line-height: 1;
+  background-image: linear-gradient(#378dbc 0%, #b6e8f1 46%, #fff 50%, #32120e 54%, #ffc488 58%, #582c11 90%, #ec9b4e 100%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 4px #f5f5f5;
+}
+
+.chrome::before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  padding-right: 300px;
+  content: "CHROME";
+  background-image: linear-gradient(-40deg, transparent 0%, transparent 40%, #fff 50%, transparent 60%, transparent 100%);
+  background-position: -680px 0;
+  background-clip: text;
+  animation-name: chrome_effect;
+  animation-duration: 6s;
+  animation-timing-function: linear;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  -webkit-text-stroke: 0;
+}
+
+.dreams {
+  position: absolute;
+  z-index: 20;
+  margin: 0;
+  margin-top: -120px;
+  margin-left: 400px;
+  font-family: "Mr Dafoe", cursive;
+  font-size: 160px;
+  color: #f975f7;
+  filter: drop-shadow(2px 2px 20px #f008b7);
+  transform: rotate(-15deg);
+  -webkit-text-stroke: 1px #f008b7;
+}
+
+.windows .dreams {
+  -webkit-text-stroke: 4px #f008b7;
+}
