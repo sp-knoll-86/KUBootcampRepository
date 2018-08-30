@@ -3,62 +3,61 @@
 
 <html lang="en-us">
 
-  <head>
+<head>
 
-    <meta charset="UTF-8">
-    <title>Coin Flipper</title>
+  <meta charset="UTF-8">
+  <title>Coin Flipper</title>
 
-  </head>
+</head>
 
-  <body>
+<body>
 
-    <!-- The html is done for us. -->
-    <h1>Flip A Coin!</h1>
-    <h2>Guess Heads or Tails:</h2>
+  <!-- The html is done for us. -->
+  <h1>Flip A Coin!</h1>
+  <h2>Guess Heads or Tails:</h2>
 
-    <button id="heads">Heads</button>
-    <button id="tails">Tails</button>
+  <button id="heads">Heads</button>
+  <button id="tails">Tails</button>
 
-    <br>
+  <br>
 
-    <div> You guessed:
-      <span id="guess"></span>
+  <div> You guessed:
+    <span id="guess"></span>
+  </div>
+
+  <br>
+
+  <div id="coin-image"></div>
+
+  <div id="win-lose"></div>
+
+  <div id="win-loss-tracker">
+
+    <div>
+      <h3>Wins: </h3>
+      <span id="wins"></span>
     </div>
 
-    <br>
-
-    <div id="coin-image"></div>
-
-    <div id="win-lose"></div>
-
-    <div id="win-loss-tracker">
-
-      <div>
-        <h3>Wins: </h3>
-        <span id="wins"></span>
-      </div>
-
-      <div>
-        <h3>Losses: </h3>
-        <span id="losses"></span>
-      </div>
-
-      <div>
-        <h3>Heads chosen: </h3>
-        <span id="heads-chosen"></span>
-      </div>
-
-      <div>
-        <h3>Tails chosen: </h3>
-        <span id="tails-chosen"></span>
-      </div>
-
+    <div>
+      <h3>Losses: </h3>
+      <span id="losses"></span>
     </div>
+
+    <div>
+      <h3>Heads chosen: </h3>
+      <span id="heads-chosen"></span>
+    </div>
+
+    <div>
+      <h3>Tails chosen: </h3>
+      <span id="tails-chosen"></span>
+    </div>
+
+  </div>
 
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
   <script type="text/javascript">
-
     // Coin Flip JavaScript
     // These variables are declared for us.
     var headsCount = 0;
@@ -103,14 +102,14 @@
     }
 
     // This on click function has been completed for us.
-    $("#heads").on("click", function() {
+    $("#heads").on("click", function () {
       headsCount++;
       $("#heads-chosen").text(headsCount);
       $("#guess").html("<b>Heads</b>");
       flipThatCoin(0);
     });
 
-    $("#tails").on("click", function() {
+    $("#tails").on("click", function () {
 
       //  STEP FOUR:
 
@@ -118,11 +117,13 @@
       //  Find the span with an id of tails-chosen. Replace the html inside of the span with the tailsCount.
       //  Find the div with an id of guess. Update it with the word "Tails" bolded.
       //  Call the flipThatCoin function and pass value 1 into it.
-
+      tailsCount++;
+      $("#tails-chosen").text(tailsCount);
+      $("#guess").html("<b>Tails</b>");
+      flipThatCoin(1);
     });
+  </script>
 
-    </script>
-
-  </body>
+</body>
 
 </html>
