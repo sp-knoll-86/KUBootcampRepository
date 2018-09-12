@@ -16,8 +16,22 @@
   <script type="text/javascript">
     // Things to accomplish:
     // Get an API Key from OpenWeatherMap API
+    var apiKey = '85fa1c0e96ecdbf4f3f7889ece21976a';
     // Create an AJAX call to retrieve data Log the data in console
+    var queryURL = "https://api.openweathermap.org/data/2.5/weather?" +
+    "q=Bujumbura,Burundi&units=imperial&appid=" + ApiKey;;
+
+    $.ajax({
+      url: queryURL,
+      method: "GET"
+    }).then(function(response) {
+      console.log(response);
+    });
     // Log the data in HTML
+    var cityDiv = $('.city').html('<p>' + response.city);
+    var windDiv = $('.wind').html('<p>' + response.wind);
+    var humidityDiv = $('.humidity').html('<p>' + response.humidity);
+    var tempDiv = $('.temp').html('<p>' + response.temp);
     // Scream Ushindi (victory in Swahili)! at the top of your lungs
   </script>
 
