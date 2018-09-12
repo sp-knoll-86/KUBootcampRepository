@@ -1,0 +1,21 @@
+| Lesson Plan 6.3 - Time Tracker |        |                                                       |      |          |     |                                                                                 |
+| ------------------------------ | ------ | ----------------------------------------------------- | ---- | -------- | --- | ------------------------------------------------------------------------------- |
+|                                | Number | Activity                                              | Time | Value    |     | Notes                                                                           |
+| 10:00 AM                       | 1      | Instructor Do: Congratulatory Monologue on Full-Stack | 0:05 |          |     | High or Critical Activities:                                                    |
+| 10:05 AM                       | 2      | Partners Do: Random Cat Activity                      | 0:10 |          |     | Are worth spending extra moments on in class and/or may be pivotal to homework. |
+| 10:15 AM                       | 3      | Instructor Do: Review Cat Activity                    | 0:10 |          |     |                                                                                 |
+| 10:25 AM                       | 4      | Partners Do: Ajax Triggered by Buttons                | 0:15 | High     |     |                                                                                 |
+| 10:40 AM                       | 5      | Instructor Do: Ajax Triggered by Buttons Review       | 0:05 | High     |     |                                                                                 |
+| 10:45 AM                       | 6      | Partners Do: Creating Elements Dynamically            | 0:15 |          |     |                                                                                 |
+| 11:00 AM                       | 7      | Instructor Do: Creating Elements Dynamically Review   | 0:05 |          |     |                                                                                 |
+| 11:05 AM                       | 8      | Everyone Do: Reiterate Concepts                       | 0:10 | High     |     |                                                                                 |
+| 11:15 AM                       | 9      | Partners Do: Pausing Gifs                             | 0:15 | High     |     |                                                                                 |
+| 11:30 AM                       | 10     | Instructor Do: Review Pausing Gifs                    | 0:05 |          |     |                                                                                 |
+| 11:35 AM                       | 11     | Instructor Do: NYT Group Formation                    | 0:05 |          |     |                                                                                 |
+| 11:40 AM                       | 12     | BREAK                                                 | 0:40 |          |     |                                                                                 |
+| 12:20 PM                       | 13     | Instructor Do: NYT Example Intro                      | 0:05 |          |     |                                                                                 |
+| 12:25 PM                       | 14     | Instructor Do: NYT Example - Design and API           | 0:30 | Critical |     |                                                                                 |
+| 12:55 PM                       | 15     | Instructor Do: NYT Example - Coding the Logic         | 0:30 |          |     |                                                                                 |
+| 1:25 PM                        | 16     | Instructor Do: NYT Example - Bug Cases                | 0:25 | High     |     |                                                                                 |
+| 1:50 PM                        | 17     | Instructor Do: NYT Example - Refinement and Deploy    | 0:10 | High     |     |                                                                                 |
+| 2:00 PM                        |        | END                                                   |      |          |     |                                                                                 |

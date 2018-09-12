@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Multiple AJAX requests</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+<body>
+  <ul style="list-">
+    <li><a href="http://swapi.co/" target="_blank">How to use the API</a></li>
+    <li><a href="http://swapi.co/api/people/" target="_blank">The JSON returned</a></li>
+    <li><a href="http://api.jquery.com/jQuery.when/#entry-examples" target="_blank">Learn how to enforce waiting for the api call to finish</a></li>
+  </ul>
+  <script>
+    var peopleEndpoint = "http://swapi.co/api/people/";
+    var hero1Number = 1;
+    var hero2Number = 2;
+
+    // using jquery `when` allows us to wait until all asynchronous functions passed to `when` are finished
+    // in this example, the `then` function isn't called until both starWarsAjax calls passed to `when` resolve
+    $.when(starWarsAjax(hero1Number), starWarsAjax(hero2Number)).then(function(result1, result2) {
+      // result1 and result2 are results for the hero1 and hero2 ajax requests, respectively.
+      // Each argument is an array: [ data, statusText, jqXHR ].
+      var hero1 = result1[0].name;
+      var hero2 = result2[0].name;
+      alert("It worked! Your heroes are " + hero1 + " and " + hero2 + "!");
+      console.log("Visit " + peopleEndpoint + hero1Number + " and compare the 'name' to our 'result1[0].name'");
+      console.log("Visit " + peopleEndpoint + hero2Number + " and compare the 'name' to our 'result2[0].name'");
+      console.log("hero 1 name: " + hero1);
+      console.log("hero 2 name: " + hero2);
+    });
+
+    // takes a "people" number, and returns the ajax request to that endpoint
+    function starWarsAjax(peopleNumber) {
+      return $.ajax({
+        url: peopleEndpoint + peopleNumber,
+        success: function() {
+          console.log("api call worked (this prints before the alert)");
+        },
+        error: function() {
+          console.log("api call failed");
+        }
+      });
+    }
+  </script>
+</body>
+</html>
