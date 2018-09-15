@@ -1,0 +1,26 @@
+| Lesson Plan 7.1 - Time Tracker |        |                                                   |      |          |     |                                                                                 |
+| ------------------------------ | ------ | ------------------------------------------------- | ---- | -------- | --- | ------------------------------------------------------------------------------- |
+|                                | Number | Activity                                          | Time | Value    |     | Notes                                                                           |
+| 6:30 PM                        | 1      | Partners Do: Basic TodoApp                        | 0:15 | Critical |     | High or Critical Activities:                                                    |
+| 6:45 PM                        | 2      | Instructor: Review TodoApp                        | 0:07 | Critical |     | Are worth spending extra moments on in class and/or may be pivotal to homework. |
+| 6:52 PM                        | 3      | Everyone: Review TodoApp                          | 0:05 | Critical |     |                                                                                 |
+| 6:57 PM                        | 4      | Everyone: Losing Todos                            | 0:01 | Fun      |     |                                                                                 |
+| 6:58 PM                        | 5      | Instructor: Intro to Data Persistence             | 0:02 | High     |     |                                                                                 |
+| 7:00 PM                        | 6      | Instructor: Intro to Client-Side Persistence      | 0:01 | High     |     |                                                                                 |
+| 7:01 PM                        | 7      | Everyone Do: Advantages Disadvantages             | 0:02 | High     |     |                                                                                 |
+| 7:03 PM                        | 8      | Instructor Do: Advantages Disadvantages           | 0:02 | High     |     |                                                                                 |
+| 7:05 PM                        | 9      | Instructor Do: Client Side Approaches             | 0:02 | Med      |     |                                                                                 |
+| 7:07 PM                        | 10     | Students Do: Sign:in without persistence          | 0:07 | High     |     |                                                                                 |
+| 7:14 PM                        | 11     | Instructor Do: Review Sign:in without persistence | 0:10 | High     |     |                                                                                 |
+| 7:24 PM                        | 12     | Instructor Do: Demo localStorage                  | 0:10 | Critical |     |                                                                                 |
+| 7:34 PM                        | 13     | Students Do: Sign-in with LocalStorage            | 0:15 | Critical |     |                                                                                 |
+| 7:49 PM                        | 14     | Instructor Do: Review Sign-in with localStorage   | 0:10 | Critical |     |                                                                                 |
+| 7:59 PM                        | 15     | Instructor Do: Demo sessionStorage                | 0:05 | Optional |     |                                                                                 |
+| 8:04 PM                        | 16     | Break                                             | 0:15 |          |     |                                                                                 |
+| 8:19 PM                        | 17     | Instructor Do: Intro Cookies                      | 0:05 | Med      |     |                                                                                 |
+| 8:24 PM                        | 18     | Instructor Do: Show Working Cookies               | 0:07 | Med      |     |                                                                                 |
+| 8:31 PM                        | 19     | Everyone Do: Review Sign-in With Cookies          | 0:07 | Med      |     |                                                                                 |
+| 8:38 PM                        | 20     | Partners Do: To:Do with localStorage              | 0:40 | High     |     |                                                                                 |
+| 9:18 PM                        | 21     | Instructor Do: Review To-Do with localStorage     | 0:10 | High     |     |                                                                                 |
+| 9:28 PM                        | 22     | Instructor Do: Introduce Homework                 | 0:05 | Med      |     |                                                                                 |
+| 9:33 PM                        |        | END                                               |      |          |     |                                                                                 |
