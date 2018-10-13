@@ -1,0 +1,14 @@
+{
+  "name": "07-programmersloop",
+  "version": "1.0.0",
+  "description": "To show how to use inquirer",
+  "main": "programmersLoop-noRecursion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^3.1.1"
+  }
+}

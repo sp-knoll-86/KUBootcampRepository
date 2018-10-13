@@ -1,0 +1,14 @@
+{
+  "name": "06-programmerswithprompt",
+  "version": "1.0.0",
+  "description": "To show how the prompt works from inquirer",
+  "main": "programmersWithPrompt-noPrototypes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^3.1.1"
+  }
+}
