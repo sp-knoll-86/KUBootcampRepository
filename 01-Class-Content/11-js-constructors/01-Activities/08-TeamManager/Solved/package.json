@@ -1,0 +1,15 @@
+{
+  "name": "08-team-manager",
+  "version": "1.0.0",
+  "description": "* Over the course of this assignment you are going to put together a function which uses constructors and user input to create and manage a team of players.",
+  "main": "teamManager-advanced.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^3.1.1"
+  }
+}
