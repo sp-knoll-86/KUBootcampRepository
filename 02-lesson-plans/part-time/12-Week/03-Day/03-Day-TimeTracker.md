@@ -1,0 +1,16 @@
+| Lesson Plan 12.3 - Time Tracker |        |                                                  |      |          |     |                                                                                 |
+| ------------------------------- | ------ | ------------------------------------------------ | ---- | -------- | --- | ------------------------------------------------------------------------------- |
+|                                 | Number | Activity                                         | Time | Value    |     | Notes                                                                           |
+| 10:00 AM                        | 0      | Instructor Do: Welcome Class                     | 0:01 |          |     | High or Critical Activities:                                                    |
+| 10:01 AM                        | 1      | Instructor Do: Introduction to Big Data          | 0:05 |          |     | Are worth spending extra moments on in class and/or may be pivotal to homework. |
+| 10:06 AM                        | 2      | Partners Do: Examining The Dataset                | 0:10 |          |     |                                                                                 |
+| 10:16 AM                        | 3      | Instructor Do: Preparing the Database            | 0:05 | HIGH     |     |                                                                                 |
+| 10:21 AM                        | 4      | Students Do: Preparing the Database              | 0:20 |          |     |                                                                                 |
+| 10:41 AM                        | 5      | Instructor Do: Going Over The Database           | 0:10 | HIGH     |     |                                                                                 |
+| 10:51 AM                        | 6      | Instructor Do: Importing Data Demo               | 0:10 | CRITICAL |     |                                                                                 |
+| 11:01 AM                        | 7      | Students Do: Importing and Working With Big Data | 0:50 |          |     |                                                                                 |
+| 11:51 PM                        | 8      | BREAK                                            | 0:40 |          |     |                                                                                 |
+| 12:31 PM                        | 9      | Everyone Do: Going over Working with Big Data    | 0:15 |          |     |                                                                                 |
+| 12:46 PM                        | 10     | Students Do: Two Tables are Better than One      | 1:00 |          |     |                                                                                 |
+| 1:46 PM                         | 11     | Everyone Do: Going over Two Tables               | 0:15 |          |     |                                                                                 |
+| 2:01 PM                         | 12     | End                                              |      |          |     |                                                                                 |
