@@ -116,3 +116,5 @@ cat.buyNewFurniture = function() {
 
 // Try calling an animal's method below
 // Example: cat.destroyFurniture();
+
+cat.destroyFurniture();

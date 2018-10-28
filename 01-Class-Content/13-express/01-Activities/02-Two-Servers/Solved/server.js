@@ -11,11 +11,11 @@ var PORTTWO = 7500;
 
 // We need two different functions to handle requests, one for each server.
 function handleRequestOne(request, response) {
-  response.end("To err is human, but to really foul things up you need a computer.");
+  response.end("You're a JavaScript mastermind!");
 }
 
 function handleRequestTwo(request, response) {
-  response.end("Never trust a computer you can't throw out a window.");
+  response.end("JavaScript must not be your forte.");
 }
 
 // =====================================================================

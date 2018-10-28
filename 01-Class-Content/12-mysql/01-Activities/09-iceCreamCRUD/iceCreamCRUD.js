@@ -10,7 +10,7 @@ var connection = mysql.createConnection({
   user: "root",
 
   // Your password
-  password: "",
+  password: "0108C@denc3",
   database: "ice_creamDB"
 });
 
@@ -80,7 +80,7 @@ function deleteProduct() {
 
 function readProducts() {
   console.log("Selecting all products...\n");
-  connection.query("SELECT * FROM products", function(err, res) {
+  connection.query("SELECT * FROM products where price < 3", function(err, res) {
     if (err) throw err;
     // Log all results of the SELECT statement
     console.log(res);
