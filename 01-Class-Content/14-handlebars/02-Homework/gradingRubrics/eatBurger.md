@@ -1,14 +1,12 @@
-# Sequelize Eat-Da-Burger
+# Eat the Burger
 
-![Burger Meme](images/burgermeme.jpg)
+![Burger Meme](images/burgerMeme.jpg)
 
 ### Statement of completion
 
-This homework assignment is **optional**. 
-
 Be subjective, grading & feedback should not take more than 5 minutes per assignment.
 
-The deployed assignment utilizes sequelize and handlebars to allow users to create, update, and read burgers from the database. The deployed assignment has been added to their deployed portfolio with a link provided in the submission.
+The deployed assignment utilizes MySQL, Express, and Handlebars to allow users to create, update, and read burgers from the database. The deployed assignment has been added to their deployed portfolio with a link provided in the submission.
 
 **Is the above statement correct?**
 
