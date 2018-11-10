@@ -1,0 +1,18 @@
+| Lesson Plan 15.2 - Time Tracker |        |                                                       |      |          |     |                                                                                 |
+| ------------------------------- | ------ | ----------------------------------------------------- | ---- | -------- | --- | ------------------------------------------------------------------------------- |
+|                                 | Number | Activity                                              | Time | Value    |     | Notes                                                                           |
+| 6:30 PM                         | 0      | Instructor Do: Welcome Students                       | 0:01 |          |     | High or Critical Activities:                                                    |
+| 6:31 PM                         | 1      | Instructor Do: Pulse Check and Sequelize Review       | 0:15 |          |     | Are worth spending extra moments on in class and/or may be pivotal to homework. |
+| 6:46 PM                         | 2      | Instructor Do: TodoList Demo                          | 0:10 | CRITICAL |     |                                                                                 |
+| 6:56 PM                         | 3      | Warm Up: Connect to Sequelize and Create a Todo Model | 0:30 | CRITICAL |     |                                                                                 |
+| 7:26 PM                         | 4      | Instructor Do: Review the ORM-To-Sequelize Activity   | 0:10 | HIGH     |     |                                                                                 |
+| 7:36 PM                         | 5      | Partners Do: findAll and create                       | 0:15 |          |     |                                                                                 |
+| 7:51 PM                         | 6      | Everyone Do: Review findAll and create                | 0:10 |          |     |                                                                                 |
+| 8:01 PM                         | 7      | Instructor Demo: Update and Delete                    | 0:05 |          |     |                                                                                 |
+| 8:06 PM                         | 8      | Partners Do: Update and Delete                        | 0:20 | CRITICAL |     |                                                                                 |
+| 8:26 PM                         |        | Break                                                 | 0:15 |          |     |                                                                                 |
+| 8:41 PM                         | 9      | Everyone Do: Review Update and Delete                 | 0:15 | CRITICAL |     |                                                                                 |
+| 8:56 PM                         | 10     | Instructor Do: Validations                            | 0:05 |          |     |                                                                                 |
+| 9:01 PM                         | 11     | Everyone Do: Discuss With Partners                    | 0:10 |          |     |                                                                                 |
+| 9:11 PM                         | 12     | Partners Do: Sequelize Validations                    | 0:15 |          |     |                                                                                 |
+| 9:26 PM                         | 13     | Instructor: Review and Dismiss Class                  | 0:10 |          |     |                                                                                 |

@@ -1,0 +1,21 @@
+| Lesson Plan 15.3 - Time Tracker |        |                                                 |      |          |     |                                                                                 |
+| ------------------------------- | ------ | ----------------------------------------------- | ---- | -------- | --- | ------------------------------------------------------------------------------- |
+|                                 | Number | Activity                                        | Time | Value    |     | Notes                                                                           |
+| 10:00 AM                        | 0      | Instructor Do: Welcome Students                 | 0:01 |          |     | High or Critical Activities:                                                    |
+| 10:01 AM                        | 1      | Instructor Do: Pulse Check and Sequelize Review | 0:15 |          |     | Are worth spending extra moments on in class and/or may be pivotal to homework. |
+| 10:16 AM                        | 2      | Instructor Do: Demo App                         | 0:10 | HIGH     |     |                                                                                 |
+| 10:26 AM                        | 3      | Warm Up: Create a Post Model                    | 0:15 |          |     |                                                                                 |
+| 10:41 AM                        | 4      | Instructor Do: Review the Post Model Activity   | 0:15 | HIGH     |     |                                                                                 |
+| 10:56 AM                        | 5      | Instructor Do: Introduce CRUD Activity          | 0:05 |          |     |                                                                                 |
+| 11:01 AM                        | 6      | Partners Do: CRUD Activity                      | 0:20 | CRITICAL |     |                                                                                 |
+| 11:21 AM                        | 7      | Everyone Do: Review the CRUD activity           | 0:15 | CRITICAL |     |                                                                                 |
+| 11:36 AM                        | 8      | Instructor Do: Demo Post Author Relationships   | 0:15 | HIGH     |     |                                                                                 |
+| 11:51 AM                        | 9      | Partners Do: Discuss Relations                  | 0:05 |          |     |                                                                                 |
+| 11:56 AM                        | 10     | Everyone Do: Discuss Relations                  | 0:05 |          |     |                                                                                 |
+| 12:01 PM                        |        | BREAK                                           | 0:40 |          |     |                                                                                 |
+| 12:41 PM                        | 11     | Instructor Do: Introduce Sequelize Associations | 0:05 |          |     |                                                                                 |
+| 12:46 PM                        | 12     | Groups Do: Sequelize Associations               | 0:20 |          |     |                                                                                 |
+| 1:06 PM                        | 13     | Instructor Do: Review Sequelize Associations    | 0:20 | CRITICAL |     |                                                                                 |
+| 1:26 PM                        | 14     | Groups Do: Joins                                | 0:15 |          |     |                                                                                 |
+| 1:41 PM                        | 15     | Instructor: Review Joins and Dismiss Class      | 0:20 | CRITICAL |     |                                                                                 |
+| 2:01 PM                        |        | END                                             |      |          |     |                                                                                 |
