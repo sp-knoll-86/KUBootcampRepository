@@ -1,0 +1,19 @@
+| Lesson Plan 15.1 - Time Tracker |        |                                                  |      |          |     |                                                                                 |
+| ------------------------------- | ------ | ------------------------------------------------ | ---- | -------- | --- | ------------------------------------------------------------------------------- |
+|                                 | Number | Activity                                         | Time | Value    |     | Notes                                                                           |
+| 6:30 PM                         | 0      | Instructor Do: Welcome Students                  | 0:01 |          |     | High or Critical Activities:                                                    |
+| 6:31 PM                         | 1      | Instructor Do: Refresher on Last Week            | 0:05 |          |     | Are worth spending extra moments on in class and/or may be pivotal to homework. |
+| 6:36 PM                         | 2      | Students Do: Chirpy                              | 0:20 |          |     |                                                                                 |
+| 6:56 PM                         | 3      | Instructor Do: Review Chirpy                     | 0:10 |          |     |                                                                                 |
+| 7:06 PM                         | 4      | Instructor Do: Introduce Sequelize Before a Quiz | 0:05 |          |     |                                                                                 |
+| 7:11 PM                         | 5      | Partners Do: Sequelize Quiz                      | 0:15 |          |     |                                                                                 |
+| 7:26 PM                         | 6      | Everyone Do: Go over Answers                     | 0:10 |          |     |                                                                                 |
+| 7:36 PM                         | 7      | Instructor Do: Chirpy with Sequelize             | 0:15 |          |     |                                                                                 |
+| 7:51 PM                         | 8      | Students Do: Star Wars MySQL to Sequelize        | 0:20 |          |     |                                                                                 |
+| 8:11 PM                         | 9      | Instructor Do: Review Star Wars Example          | 0:10 | HIGH     |     |                                                                                 |
+| 8:21 PM                         |        | BREAK                                            | 0:15 |          |     |                                                                                 |
+| 8:36 PM                         | 10     | Students Do: Sequelize Library                   | 0:25 | HIGH     |     |                                                                                 |
+| 9:01 PM                         | 11     | Instructor Do: Go over Sequelize Library         | 0:10 | HIGH     |     |                                                                                 |
+| 9:11 PM                         | 12     | Instructor Do: Intro to Sequelize CLI            | 0:15 | CRITICAL |     |                                                                                 |
+| 9:26 PM                         | 13     | Instructor Do: Wrap up and Dismiss               | 0:05 |          |     |                                                                                 |
+|                                 |        | END                                              |      |          |     |                                                                                 |
