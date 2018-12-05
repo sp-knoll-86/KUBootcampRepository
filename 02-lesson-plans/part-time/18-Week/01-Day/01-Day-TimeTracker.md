@@ -1,0 +1,23 @@
+## Lesson Plan 18.1 - Time Tracker
+
+|         | Number | Activity                                     | File Folder                                 | Time | Value    |     | Notes                                                                           |
+| ------- | ------ | -------------------------------------------- | ------------------------------------------- | ---- | -------- | --- | ------------------------------------------------------------------------------- |
+| 6:30 PM | 0      | Welcome Students                             |                                             | 0:01 |          |     | High or Critical Activities:                                                    |
+| 6:31 PM | 1      | Feedback for Second Project                  |                                             | 0:05 | High     |     | Are worth spending extra moments on in class and/or may be pivotal to homework. |
+| 6:36 PM | 2      | The Road Ahead                               |                                             | 0:05 |          |     |                                                                                 |
+| 6:41 PM | 3      | What is MongoDB                              |                                             | 0:15 | Critical |     |                                                                                 |
+| 6:56 PM | 4      | Quick Activity                               |                                             | 0:10 |          |     |                                                                                 |
+| 7:06 PM | 5      | Reviewing Quick Activity                     |                                             | 0:05 |          |     |                                                                                 |
+| 7:11 PM | 6      | Installing MongoDB                           | Installing-MongoDB.md                       | 0:20 | Critical |     |                                                                                 |
+| 7:31 PM | 7      | Initial MongoDB Queries                      | Activities/1-Create-insert-and-find         | 0:15 | High     |     |                                                                                 |
+| 7:46 PM | 8      | Assignment: MongoDB Basics                   | Activities/2-Starting-With-Mongo            | 0:15 | Critical |     |                                                                                 |
+| 8:01 PM | 9      | Go Over Last Exercise                        | Activities/2-Starting-With-Mongo            | 0:05 |          |     |                                                                                 |
+| 8:06 PM | 10     | Break                                        |                                             | 0:15 |          |     |                                                                                 |
+| 8:21 PM | 11     | Removing, Updating and Dropping in MongoDB   | Activities/3-Update-Delete-and-Drop         | 0:15 | High     |     |                                                                                 |
+| 8:36 PM | 12     | Assignment: Taking Candy from Basket Weavers | Activities/4-Student-Update-Delete-and-Drop | 0:20 | Critical |     |                                                                                 |
+| 8:56 PM | 13     | Go Over the Answers                          | Activities/4-Student-Update-Delete-and-Drop | 0:05 |          |     |                                                                                 |
+| 9:01 PM | 14     | Install RoboMongo                            |                                             | 0:05 | Critical |     |                                                                                 |
+| 9:06 PM | 15     | Demonstrate RoboMongo                        |                                             | 0:10 | High     |     |                                                                                 |
+| 9:16 PM | 16     | Final Assignment                             | Slack out instructions from Lesson          | 0:10 | High     |     |                                                                                 |
+| 9:26 PM | 17     | Wrap Up                                      |                                             | 0:04 |          |     |                                                                                 |
+| 9:30 PM | END    |                                              |                                             |      |          |     |                                                                                 |
