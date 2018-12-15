@@ -1,20 +1,20 @@
 // Dependencies
 // ===========================================================
-var express = require("express");
+let express = require("express");
 
-var app = express();
-var PORT = 3000;
+let app = express();
+let PORT = 3000;
 
 // Data
 // ===========================================================
-var yoda = {
+let yoda = {
   name: "Yoda",
   role: "Jedi Master",
   age: 900,
   forcePoints: 2000
 };
 
-var darthmaul = {
+let darthmaul = {
   name: "Darth Maul",
   role: "Sith Lord",
   age: 200,
@@ -25,9 +25,12 @@ var darthmaul = {
 // Enter any values you like for the parameters following the same format as the Yoda and Darth Maul character
 //
 
-// YOUR CODE GOES HERE
-
-//
+let obiwankenobi = {
+    name: "Obi Wan Kenobi",
+    role: "Jedi Master",
+    age: 55,
+    forcePoints: 1500,
+};
 
 // Routes
 // ===========================================================
@@ -47,9 +50,9 @@ app.get("/darthmaul", function(req, res) {
 // Follow the same format as the Yoda and Darth Maul routes
 //
 
-// YOUR CODE GOES HERE
-//
-//
+app.get("/obiwankenobi", function(req, res) {
+  res.json(obiwankenobi);
+});
 
 // Listener
 // ===========================================================

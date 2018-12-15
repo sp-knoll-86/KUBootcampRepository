@@ -25,6 +25,7 @@ class Vehicle {
 const lambo = new Vehicle("Lamborghini", 50);
 
 lambo.accelerate();
+lambo.accelerate();
 lambo.brake();
 
 // ES5 equivalent using a constructor function

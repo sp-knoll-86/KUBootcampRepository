@@ -6,6 +6,11 @@ var router = express.Router();
 var cat = require("../models/cat.js");
 
 // Create all our routes and set up logic within those routes where required.
+router.delete("/api/cats/:id", function(req, res) {
+var condition = "id = " + req.params.id;
+cat.delete()
+});
+
 router.get("/", function(req, res) {
   cat.all(function(data) {
     var hbsObject = {

@@ -4,6 +4,8 @@ const ANSWER = 42;
 // can't do this - SyntaxError: "ANSWER" is read-only, so can't reassign
 // ANSWER = 3.14159;
 
+console.log(ANSWER);
+
 // can, however, MODIFY arrays and objects
 const PETS = ["Dog", "Cat", "Endangered Sea Turtles"];
 

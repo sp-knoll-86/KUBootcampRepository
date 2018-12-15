@@ -18,7 +18,7 @@ axios.get("https://www.nytimes.com").then(function(response) {
   // Select each element in the HTML body from which you want information.
   // NOTE: Cheerio selectors function similarly to jQuery's selectors,
   // but be sure to visit the package's npm page to see how it works
-  $("article.css-180b3ld").each(function(i, element) {
+  $("div.css-6p6lnl").each(function(i, element) {
 
     var title = $(element).children().text();
     var link = $(element).find("a").attr("href");

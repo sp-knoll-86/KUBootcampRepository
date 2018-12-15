@@ -1,7 +1,7 @@
-var name = "Nick";
+let name = "Nick";
 
-var tinyize = function(name) {
-  var myName = "Tiny " + name + "!";
+const tinyize = function(name) {
+  const myName = "Tiny " + name + "!";
 
   return myName;
 };
@@ -9,7 +9,7 @@ var tinyize = function(name) {
 name = tinyize("Rick");
 console.log(name);
 
-for (var i = 0; i < 5; i++) {
+for (let i = 0; i < 5; i++) {
   setTimeout(function() {
     console.log(i);
   }, 100);

@@ -10,6 +10,8 @@ In the class, you will introduce students to `Mongoose`, a node package that len
 
 ##### Instructor Priorities
 
+Today we began learning Mongoose which is an ODM for mongodb.  We began learning the schema used to dictate rules for their mongodb data.  We worked on custom methods to set and update data on the back end.  We used mongoose's populate method to create relationships between collections.
+
 * Students should understand how to write up a `Mongoose` schema to dictate rules for their MongoDB data.
 * Students should know how to create custom methods in `Mongoose` to set and update data purely on the back end.
 * Students should be able to utilize `Mongoose`'s populate method to create relationships between the collections in their database.

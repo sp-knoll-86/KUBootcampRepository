@@ -1,0 +1,17 @@
+{
+  "name": "11-stu_disemvowel",
+  "version": "1.0.0",
+  "description": "In this activity we will write tests for a function designed to remove all vowels from a given string.",
+  "main": "disemvowel.js",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}

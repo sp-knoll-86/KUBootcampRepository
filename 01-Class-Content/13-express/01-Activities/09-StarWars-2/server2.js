@@ -3,7 +3,7 @@
 var express = require("express");
 
 var app = express();
-var PORT = 3000;
+var PORT = 3005;
 
 // Data
 var characters = [{
@@ -21,7 +21,7 @@ var characters = [{
 }, {
   routeName: "obiwankenobi",
   name: "Obi Wan Kenobi",
-  role: "Jedi Knight",
+  role: "Jedi Master",
   age: 60,
   forcePoints: 1350
 }];

@@ -6,6 +6,7 @@ var orm = {
 
     connection.query(queryString, [tableInput, colToSearch, valOfCol], function(err, result) {
       if (err) throw err;
+      console.log(result);
       return result;
     });
   }
