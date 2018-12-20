@@ -1,10 +1,12 @@
-# React Google Books
+# Mongo News Scraper
+
+![Cheerio Meme](images/cheerioMeme.jpg)
 
 ### Statement of completion
 
 Be subjective, grading & feedback should not take more than 5 minutes per assignment.
 
-The deployed assignment utilizes React and Google Books API to let the user search and save books. The deployed assignment has been added to their deployed portfolio with a link provided in the submission.
+The deployed assignment utilizes mongoDB, cheerio, and express to let the user scrape articles from a website. The deployed assignment has been added to their deployed portfolio with a link provided in the submission.
 
 **Is the above statement correct?**
 
