@@ -1,0 +1,15 @@
+{
+  "short_name": "React Gently",
+  "name": "React Gently",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#017F96",
+  "background_color": "#ffffff"
+}
